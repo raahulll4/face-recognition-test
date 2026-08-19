@@ -137,6 +137,7 @@ Run the video processing script:
 python process_video.py
 ```
 
+> **Note:** The first run may take longer than subsequent runs, as some dependencies and model weights may need to be downloaded and initialised.
 ## Output
 
 The labelled output video will be saved to:
