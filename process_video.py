@@ -16,7 +16,7 @@ REFERENCE_DIR = "./references"
 INPUT_VIDEO_PATH = "./input/input.mp4"
 OUTPUT_VIDEO_PATH = "./output/output.mp4"
 SIMILARITY_THRESHOLD = 0.7
-PROCESS_EVERY_N_FRAMES = 3
+PROCESS_EVERY_N_FRAMES = 5
 
 DISPLAY_NAMES = {
     "harry_potter": "Harry Potter",

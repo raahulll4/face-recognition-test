@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e5a348e-e1d6-49ea-8aa7-676c6b77e8a0" name="Changes" comment="added README.md" />
+    <list default="true" id="2e5a348e-e1d6-49ea-8aa7-676c6b77e8a0" name="Changes" comment="moved README.md location" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +37,7 @@
 }]]></component>
   <component name="ProjectId" id="3I8cRlLMODZqFFPFFUKfCs8aVKD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -47,7 +48,8 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -90,13 +92,22 @@
       <option name="project" value="LOCAL" />
       <updated>1787158888231</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="moved README.md location">
+      <option name="closed" value="true" />
+      <created>1787159389906</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1787159389906</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="reference images" />
     <MESSAGE value="added README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="added README.md" />
+    <MESSAGE value="moved README.md location" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved README.md location" />
   </component>
 </project>
